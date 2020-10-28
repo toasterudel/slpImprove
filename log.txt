@@ -1,0 +1,12 @@
+TypeError: Cannot read property 'trim' of null
+    at findPlayerSync (/Users/chris/Coding/slpImprove/script.js:51:15)
+    at _.each (/Users/chris/Coding/slpImprove/script.js:88:28)
+    at arrayEach (/Users/chris/Coding/slpImprove/node_modules/lodash/lodash.js:516:11)
+    at Function.forEach (/Users/chris/Coding/slpImprove/node_modules/lodash/lodash.js:9368:14)
+    at getHits (/Users/chris/Coding/slpImprove/script.js:69:5)
+    at Object.<anonymous> (/Users/chris/Coding/slpImprove/script.js:121:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+
